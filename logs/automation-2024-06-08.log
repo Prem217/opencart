@@ -1,0 +1,50 @@
+21:23:17.064 [main] INFO  Testclass.TC_002_LoginPageTest - click MyAccount link
+21:23:17.650 [main] INFO  Testclass.TC_002_LoginPageTest - click Login link
+21:23:17.651 [main] INFO  Testclass.TC_002_LoginPageTest - enter Login details
+21:23:18.584 [main] INFO  Testclass.TC_002_LoginPageTest - clicked on ligin button..
+21:23:18.651 [main] INFO  Testclass.TC_002_LoginPageTest - *********LOGIN PASSED*******
+21:23:18.652 [main] INFO  Testclass.TC_002_LoginPageTest - **** Finished TC_002_LoginTest  ****
+21:24:08.857 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Selenium\Frameworks\opencart\final.xml"
+21:24:09.437 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium\Frameworks\opencart\final.xml
+
+21:24:13.168 [main] INFO  Testclass.TC_001_AccountRegistrationTest - **********Starting TC_001_AccountRegistrationTest********************
+21:24:13.169 [main] DEBUG Testclass.TC_001_AccountRegistrationTest - application logs started......
+21:24:13.396 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked MyAccount link
+21:24:14.256 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked Registration link
+21:24:14.257 [main] INFO  Testclass.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:24:21.909 [main] INFO  Testclass.TC_002_LoginPageTest - *******************Starting TC_002_LoginPageTest *******************
+21:24:22.059 [main] INFO  Testclass.TC_002_LoginPageTest - click MyAccount link
+21:24:22.659 [main] INFO  Testclass.TC_002_LoginPageTest - click Login link
+21:24:22.659 [main] INFO  Testclass.TC_002_LoginPageTest - enter Login details
+21:24:23.647 [main] INFO  Testclass.TC_002_LoginPageTest - clicked on ligin button..
+21:24:23.724 [main] INFO  Testclass.TC_002_LoginPageTest - *********LOGIN PASSED*******
+21:24:23.724 [main] INFO  Testclass.TC_002_LoginPageTest - **** Finished TC_002_LoginTest  ****
+21:24:58.981 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Selenium\Frameworks\opencart\final.xml"
+21:24:59.603 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium\Frameworks\opencart\final.xml
+
+21:25:03.299 [main] INFO  Testclass.TC_001_AccountRegistrationTest - **********Starting TC_001_AccountRegistrationTest********************
+21:25:03.300 [main] DEBUG Testclass.TC_001_AccountRegistrationTest - application logs started......
+21:25:03.529 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked MyAccount link
+21:25:04.320 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked Registration link
+21:25:04.320 [main] INFO  Testclass.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:25:11.626 [main] INFO  Testclass.TC_002_LoginPageTest - *******************Starting TC_002_LoginPageTest *******************
+21:25:11.797 [main] INFO  Testclass.TC_002_LoginPageTest - click MyAccount link
+21:25:12.489 [main] INFO  Testclass.TC_002_LoginPageTest - click Login link
+21:25:12.489 [main] INFO  Testclass.TC_002_LoginPageTest - enter Login details
+21:25:13.393 [main] INFO  Testclass.TC_002_LoginPageTest - clicked on ligin button..
+21:25:13.458 [main] INFO  Testclass.TC_002_LoginPageTest - *********LOGIN PASSED*******
+21:25:13.458 [main] INFO  Testclass.TC_002_LoginPageTest - **** Finished TC_002_LoginTest  ****
+08:53:19.073 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:53:19.110 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:53:19.112 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+08:53:19.116 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:53:20.112 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:53:20.118 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:53:44.356 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:53:44.381 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:53:44.383 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+08:53:44.386 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:53:45.527 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:53:45.527 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings

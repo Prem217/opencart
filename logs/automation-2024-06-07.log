@@ -1,0 +1,58 @@
+21:08:52.565 [main] INFO  Testclass.TC_002_LoginPageTest - *******************Starting TC_002_LoginPageTest *******************
+21:08:52.716 [main] INFO  Testclass.TC_002_LoginPageTest - click MyAccount link
+21:08:53.402 [main] INFO  Testclass.TC_002_LoginPageTest - click Login link
+21:08:53.402 [main] INFO  Testclass.TC_002_LoginPageTest - enter Login details
+21:08:54.764 [main] INFO  Testclass.TC_002_LoginPageTest - clicked on ligin button..
+21:08:54.817 [main] INFO  Testclass.TC_002_LoginPageTest - *********LOGIN PASSED*******
+21:08:54.817 [main] INFO  Testclass.TC_002_LoginPageTest - **** Finished TC_002_LoginTest  ****
+21:10:09.641 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Selenium\Frameworks\opencart\final.xml"
+21:10:10.243 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium\Frameworks\opencart\final.xml
+
+21:10:16.303 [main] INFO  Testclass.TC_001_AccountRegistrationTest - **********Starting TC_001_AccountRegistrationTest********************
+21:10:16.304 [main] DEBUG Testclass.TC_001_AccountRegistrationTest - application logs started......
+21:10:16.549 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked MyAccount link
+21:10:17.596 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked Registration link
+21:10:17.596 [main] INFO  Testclass.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:10:25.465 [main] INFO  Testclass.TC_002_LoginPageTest - *******************Starting TC_002_LoginPageTest *******************
+21:10:25.612 [main] INFO  Testclass.TC_002_LoginPageTest - click MyAccount link
+21:10:26.198 [main] INFO  Testclass.TC_002_LoginPageTest - click Login link
+21:10:26.198 [main] INFO  Testclass.TC_002_LoginPageTest - enter Login details
+21:10:27.208 [main] INFO  Testclass.TC_002_LoginPageTest - clicked on ligin button..
+21:10:27.269 [main] INFO  Testclass.TC_002_LoginPageTest - *********LOGIN PASSED*******
+21:10:27.270 [main] INFO  Testclass.TC_002_LoginPageTest - **** Finished TC_002_LoginTest  ****
+21:11:45.010 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Selenium\Frameworks\opencart\final.xml"
+21:11:45.637 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium\Frameworks\opencart\final.xml
+
+21:11:49.723 [main] INFO  Testclass.TC_001_AccountRegistrationTest - **********Starting TC_001_AccountRegistrationTest********************
+21:11:49.723 [main] DEBUG Testclass.TC_001_AccountRegistrationTest - application logs started......
+21:11:50.153 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked MyAccount link
+21:11:51.022 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked Registration link
+21:11:51.022 [main] INFO  Testclass.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:11:58.543 [main] INFO  Testclass.TC_002_LoginPageTest - *******************Starting TC_002_LoginPageTest *******************
+21:11:58.726 [main] INFO  Testclass.TC_002_LoginPageTest - click MyAccount link
+21:11:59.297 [main] INFO  Testclass.TC_002_LoginPageTest - click Login link
+21:11:59.297 [main] INFO  Testclass.TC_002_LoginPageTest - enter Login details
+21:12:00.264 [main] INFO  Testclass.TC_002_LoginPageTest - clicked on ligin button..
+21:12:00.322 [main] INFO  Testclass.TC_002_LoginPageTest - *********LOGIN PASSED*******
+21:12:00.322 [main] INFO  Testclass.TC_002_LoginPageTest - **** Finished TC_002_LoginTest  ****
+21:17:27.671 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Selenium\Frameworks\opencart\final.xml"
+21:17:28.437 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium\Frameworks\opencart\final.xml
+
+21:17:33.753 [main] INFO  Testclass.TC_001_AccountRegistrationTest - **********Starting TC_001_AccountRegistrationTest********************
+21:17:33.754 [main] DEBUG Testclass.TC_001_AccountRegistrationTest - application logs started......
+21:17:33.996 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked MyAccount link
+21:17:35.032 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked Registration link
+21:17:35.032 [main] INFO  Testclass.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:23:02.636 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Selenium\Frameworks\opencart\final.xml"
+21:23:03.151 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium\Frameworks\opencart\final.xml
+
+21:23:08.294 [main] INFO  Testclass.TC_001_AccountRegistrationTest - **********Starting TC_001_AccountRegistrationTest********************
+21:23:08.294 [main] DEBUG Testclass.TC_001_AccountRegistrationTest - application logs started......
+21:23:08.509 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked MyAccount link
+21:23:09.532 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked Registration link
+21:23:09.533 [main] INFO  Testclass.TC_001_AccountRegistrationTest - Entering customer details.. 
+21:23:16.860 [main] INFO  Testclass.TC_002_LoginPageTest - *******************Starting TC_002_LoginPageTest *******************

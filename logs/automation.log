@@ -1,0 +1,35 @@
+08:54:34.601 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/_rels/workbook.xml.rels
+08:54:34.631 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+08:54:34.635 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /xl/worksheets/_rels/sheet2.xml.rels
+08:54:34.638 [main] DEBUG org.apache.poi.openxml4j.opc.PackageRelationshipCollection - Parsing relationship: /_rels/.rels
+08:54:35.553 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+08:54:35.556 [main] DEBUG org.apache.poi.ooxml.POIXMLFactory - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+09:21:37.677 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save core properties part
+09:21:37.702 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save content types part
+09:21:37.904 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save package relationships
+09:21:37.918 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/app.xml'
+09:21:37.926 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'docProps/core.xml'
+09:21:37.940 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/sharedStrings.xml'
+09:21:37.941 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/styles.xml'
+09:21:37.941 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/workbook.xml'
+09:21:37.944 [main] DEBUG org.apache.poi.openxml4j.opc.ZipPackage - Save part 'xl/worksheets/sheet1.xml'
+11:52:19.400 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Selenium\Frameworks\opencart\final.xml"
+11:52:20.556 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium\Frameworks\opencart\final.xml
+
+11:53:24.185 [main] DEBUG org.testng.TestNG - suiteXmlPath: "F:\Selenium\Frameworks\opencart\final.xml"
+11:53:24.892 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  F:\Selenium\Frameworks\opencart\final.xml
+
+11:53:39.040 [main] INFO  Testclass.TC_001_AccountRegistrationTest - **********Starting TC_001_AccountRegistrationTest********************
+11:53:39.040 [main] DEBUG Testclass.TC_001_AccountRegistrationTest - application logs started......
+11:53:39.417 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked MyAccount link
+11:53:42.191 [main] INFO  Testclass.TC_001_AccountRegistrationTest - clicked Registration link
+11:53:42.191 [main] INFO  Testclass.TC_001_AccountRegistrationTest - Entering customer details.. 
+11:53:51.748 [main] INFO  Testclass.TC_002_LoginPageTest - *******************Starting TC_002_LoginPageTest *******************
+11:53:51.912 [main] INFO  Testclass.TC_002_LoginPageTest - click MyAccount link
+11:53:53.468 [main] INFO  Testclass.TC_002_LoginPageTest - click Login link
+11:53:53.468 [main] INFO  Testclass.TC_002_LoginPageTest - enter Login details
+11:53:55.141 [main] INFO  Testclass.TC_002_LoginPageTest - clicked on ligin button..
+11:53:55.218 [main] INFO  Testclass.TC_002_LoginPageTest - *********LOGIN PASSED*******
+11:53:55.218 [main] INFO  Testclass.TC_002_LoginPageTest - **** Finished TC_002_LoginTest  ****
